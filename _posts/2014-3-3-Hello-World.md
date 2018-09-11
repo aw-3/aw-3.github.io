@@ -3,9 +3,9 @@ layout: post
 title: Hello World - Tools & Environment Setup
 ---
 
-Disclosure: I am not a professional reverse engineer. 
-
 So you're interested in reversing video games, eh? It's a long process with a steep learning curve, yet very fun and rewarding. In this first post I will list all the tools, software and base knowledge you'll need to start your journey.
+
+Disclosure: I am not a professional reverse engineer. 
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
