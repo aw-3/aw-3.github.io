@@ -26,7 +26,7 @@ Your experience with CE may range from zero to advanced, depending on how much y
 
 [https://www.hex-rays.com/products/ida/index.shtml](https://www.hex-rays.com/products/ida/index.shtml)
 
-While IDA Pro is not free (the price is quite expensive for individuals.) This is my choice for static analysis. While there is a free version of IDA it is limited in features. I recommend it anyway since you won't be using most of them for some time anyway.
+While IDA Pro is not free (the price is quite expensive for individuals.) This is my choice for static analysis. There is however a free version of IDA but it is limited in features. I recommend it anyway since you won't be using most of them for some time anyway.
 
 ### Code Development - Visual Studio
 
@@ -36,5 +36,15 @@ My preferred IDE. Most applications I write are either C or C++. Visual Studio s
 
 Hopefully you have at least a couple months of experience with a programming language. It doesn't really matter which as long as it can be used to develop executable apps. I will be using C++ throughout most of my posts.
 
+## Miscellaneous
 
-P.S: This is just my personal setup. Don't restrain yourself to anything you don't want/need. There are plenty of alternatives to everything listed above. Find what works best for you.
+### dnSpy
+
+[https://github.com/0xd4d/dnSpy](https://github.com/0xd4d/dnSpy)
+
+
+### Final Thoughts
+
+This is just my personal setup. Don't restrain yourself to anything you don't want/need. There are plenty of alternatives to everything listed above. Find what works best for you and get comfortable with it.
+
+Next up are a couple quick tutorials on using these tools.
