@@ -10,9 +10,11 @@ At first glance, Cheat Engine is nothing more than a simple memory editor; In re
 
 ## What is it good for?
 
-In my last post I used the term "Dynamic analysis," which basically just means analysing processes in real-time while they're running. This is useful because it allows us to find things that would normally be more difficult or even impossible with static analysis. An example would be scanning for your health, taking some damage, then rescanning for the new value.
+In my last post I used the term "Dynamic analysis," which basically just means analysing processes in real-time while they're running. This is useful because it allows us to find things that would normally be more difficult or even impossible with static analysis. An example would be scanning for your health, taking some damage, then rescanning for the new value. The equivalent with a static analyzer would be finding/identifying the pointer to it in a subroutine that reads/writes your health. 
 
+## Dynamic vs Static Analysis
 
+There is no right or wrong here. They are both useful in their own regard and you should try to master both. However in certain games one may be more useful than the other. Example: Some games are packed and you will be unable to get any useful information with IDA (they can be unpacked, but that won't be covered here.) In most cases dynamic analysis would still work because the game is unpacked once running.
 
 ## Useful Features
 
@@ -22,7 +24,15 @@ In my years of experience with CE here are some of the features I find most usef
 
 Many people have used this one before; and most believe it is the extend of the application. It's quite simple to use yet still powerful.
 
+Simply enter a value you wish to search for, the parameters and hit search. To narrow the results further, perform an action in game to get the value to change, and search again. Once you have found the correct result, you may change it to whatever you desire.
+
+You'll notice every result you find has an "address" associated with it. An address is the memory location that contains the value you see. This is important to us because in the future when we write a standalone cheat, we will write directly to this address instead of scanning.
+
 ### Memory view / Disassembler
+
+Attach CE to a process and hit the memory view button or CTRL-M. If you are blissfully unaware of assembly you will be pretty confused. The top portion is the disassembler which shows the assembly instructions at a given memory address in the process memory. The bottom counterpart is the hexadecimal view of the bytes at a given adddress.
+
+![_config.yml]({{ site.baseurl }}/images/CEMEMORYVIEW.png)
 
 ### Debugger
 
