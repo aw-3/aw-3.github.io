@@ -18,15 +18,15 @@ In my last post I used the term "Dynamic analysis," which basically just means a
 
 In my years of experience with CE here are some of the features I find most useful:
 
-### + Memory scanning
+### Memory scanning
 
 Many people have used this one before; and most believe it is the extend of the application. It's quite simple to use yet still powerful.
 
-+ Memory view / Disassembler
+### Memory view / Disassembler
 
-+ Debugger
+### Debugger
 
-+ Structure Dissector
+### Structure Dissector
 
 ### Final Thoughts
 
