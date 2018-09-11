@@ -43,6 +43,8 @@ The CE tutorial will teach you the basics of the disassembler. I recommend readi
 If you have programming experience, you know what a debugger is (hopefully!)
 Since we are debugging the compiled program the debugger steps through individual assembly opcodes rather than the full line of code the developer initially wrote.
 
+Using the debugger we can do many fun things, like tracing code or evaluating/overwriting CPU registers. You may place breakpoints on variables to see which opcodes access said variable.
+
 ### Auto Assembler / Code Injection
 
 ### Structure Dissector
