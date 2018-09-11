@@ -41,7 +41,7 @@ The CE tutorial will teach you the basics of the disassembler. I recommend readi
 ### Debugger
 
 If you have programming experience, you know what a debugger is (hopefully!)
-Since we are debugging the compiled program the debugger steps through assembly opcodes instead
+Since we are debugging the compiled program the debugger steps through individual assembly opcodes rather than the full line of code the developer initially wrote.
 
 ### Auto Assembler / Code Injection
 
