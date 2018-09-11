@@ -45,7 +45,7 @@ Since we are debugging the compiled program. The debugger steps through assembly
 
 I've only listed a couple of features CE is capable of; There are many more, you just have to explore.
 
-I _highly_ recommend completing the tutorial included with CE before moving on. Understanding what you learn rather than memorizing is important. Know what you're doing and why and you will be successful.
+I _highly_ recommend completing the tutorial included with CE before moving on. Understanding what you learn rather than simply memorizing it is important. Know what you're doing and why and you will be successful.
 
 Next up are is a crash course on using IDA.
 
