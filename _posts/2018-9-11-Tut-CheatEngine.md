@@ -5,7 +5,7 @@ title: Crash Course on Cheat Engine
 
 At first glance, Cheat Engine is nothing more than a simple memory editor; In reality it's much more. Let's take a look..
 
-![_config.yml]({{ site.baseurl }}/images/CEGUI.png)
+![CE's main UI]({{ site.baseurl }}/images/CEGUI.png)
 
 
 ## What is it good for?
@@ -34,7 +34,7 @@ For more details see the CE tutorial included with CE.
 
 Attach CE to a process and hit the memory view button or CTRL-M. If you are blissfully unaware of assembly you will be pretty confused and maybe even a little overwhelmed. The top portion is the disassembler which shows the assembly instructions at a given memory address in the process memory. The bottom counterpart is the hexadecimal view of the bytes at a given adddress.
 
-![_config.yml]({{ site.baseurl }}/images/CEMEMORYVIEW.png)
+![Memory viewer]({{ site.baseurl }}/images/CEMEMORYVIEW.png)
 
 The CE tutorial will teach you the basics of the disassembler. I recommend reading up on the basics of assembly. Most of our PCs run on x86 assembly. Here is a guide for 32bit x86 [http://www.cs.virginia.edu/~evans/cs216/guides/x86.html](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 
@@ -49,7 +49,7 @@ Since we are debugging the compiled program the debugger steps through individua
 
 I did not use this feature much up until recently, though it is quite handy. With it you can explore memory and identify the memory layout of classes/structures.
 
-![_config.yml]({{ site.baseurl }}/images/CEDISSECTOR.png)
+![Code Dissector]({{ site.baseurl }}/images/CEDISSECTOR.png)
 
 ### Final Thoughts
 
@@ -57,7 +57,7 @@ I've only listed a couple of features CE is capable of; There are many more, you
 
 I _highly_ recommend completing the tutorial included with CE before moving on. Understanding what you learn rather than simply memorizing it is important. Know what you're doing and why and you will be successful.
 
-Next up are is a crash course on using IDA.
+Next up is a crash course on using IDA.
 
 
 
