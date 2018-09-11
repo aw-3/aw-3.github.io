@@ -14,7 +14,7 @@ Disclosure: I am not a professional reverse engineer.
 
 Since nearly every PC game is developed for Windows, that is the OS we will be using. Thankfully there are plenty of tools developed to make our lives much easier.
 
-### Cheat Engine
+### Dynamic Analysis - Cheat Engine
 
 [https://www.cheatengine.org](https://www.cheatengine.org)
 
@@ -22,13 +22,13 @@ It's likely you've heard of this before or used it for the memory scanning featu
 
 Your experience with CE may range from zero to advanced, depending on how much you've used it in the past.
 
-### Interactive Disassembler
+### Static Analysis - Interactive Disassembler
 
 [https://www.hex-rays.com/products/ida/index.shtml](https://www.hex-rays.com/products/ida/index.shtml)
 
 While IDA Pro is not free (the price is quite expensive for individuals.) This is my choice for static analysis. While there is a free version of IDA it is limited in features. I recommend it anyway since you won't be using most of them for some time anyway.
 
-### Visual Studio
+### Code Development - Visual Studio
 
 [https://visualstudio.microsoft.com/](https://visualstudio.microsoft.com/)
 
