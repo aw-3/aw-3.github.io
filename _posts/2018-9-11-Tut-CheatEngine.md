@@ -36,6 +36,9 @@ Attach CE to a process and hit the memory view button or CTRL-M. If you are blis
 
 ### Debugger
 
+If you have programming experience, you know what a debugger is (hopefully!)
+Since we are debugging the compiled program. The debugger steps through assembly opcodes rather than 
+
 ### Structure Dissector
 
 ### Final Thoughts
