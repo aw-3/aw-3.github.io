@@ -16,7 +16,7 @@ Since nearly every PC game is developed for Windows, that is the OS we will be u
 
 ### Cheat Engine
 
-[https://www.cheatengine.org]
+[https://www.cheatengine.org](https://www.cheatengine.org)
 
 It's likely you've heard of this before or used it for the memory scanning feature. Don't be fooled however, Cheat Engine is in my opinion the best tool available to us for dynamic analysis on Windows. It's been around for years and has many advanced features that will eventually come in handy once you learn how to utilize them effectively. Cheat Engine receives steady updates, plus it's even open source!
 
@@ -24,7 +24,7 @@ Your experience with CE may range from zero to advanced, depending on how much y
 
 ### Visual Studio
 
-[https://visualstudio.microsoft.com/]
+[https://visualstudio.microsoft.com/](https://visualstudio.microsoft.com/)
 
 My preferred IDE. Most applications I program are written in either C or C++. It supports a few more which might come in handy depending on what exactly you're reversing.
 
