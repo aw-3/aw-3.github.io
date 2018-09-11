@@ -3,7 +3,7 @@ layout: post
 title: Hello World - Tools & Environment Setup
 ---
 
-So you're interested in reversing video games, eh? It's a long process with a steep learning curve, yet very fun and rewarding. In this first post I will list all the tools, software and base knowledge you'll need to start your journey.
+So you're interested in reversing video games, eh? It's a long process with a steep learning curve, yet challenging, fun, and rewarding. In this first post I will list all the tools and base knowledge you'll need to start your journey into the RE world.
 
 Disclosure: I am not a professional reverse engineer. 
 
