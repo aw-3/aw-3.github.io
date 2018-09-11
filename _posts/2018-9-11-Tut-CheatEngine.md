@@ -41,6 +41,10 @@ Since we are debugging the compiled program. The debugger steps through assembly
 
 ### Structure Dissector
 
+I did not use this feature much up until recently, though it is quite handy. With it you can explore memory and identify the memory layout of classes/structures.
+
+![_config.yml]({{ site.baseurl }}/images/CEDISSECTOR.png)
+
 ### Final Thoughts
 
 I've only listed a couple of features CE is capable of; There are many more, you just have to explore.
