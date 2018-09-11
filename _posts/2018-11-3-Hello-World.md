@@ -22,11 +22,17 @@ It's likely you've heard of this before or used it for the memory scanning featu
 
 Your experience with CE may range from zero to advanced, depending on how much you've used it in the past.
 
+### Interactive Disassembler
+
+[https://www.hex-rays.com/products/ida/index.shtml](https://www.hex-rays.com/products/ida/index.shtml)
+
+While IDA Pro is not free (the price is quite expensive for individuals.) This is my choice for static analysis. While there is a free version of IDA it is limited in features. I recommend it anyway since you won't be using most of them for some time anyway.
+
 ### Visual Studio
 
 [https://visualstudio.microsoft.com/](https://visualstudio.microsoft.com/)
 
-My preferred IDE. Most applications I program are written in either C or C++. It supports a few more which might come in handy depending on what exactly you're reversing.
+My preferred IDE. Most applications I write are either C or C++. Visual Studio supports a few more which might come in handy depending on what exactly you're reversing or trying to write.
 
 Hopefully you have at least a couple months of experience with a programming language. It doesn't really matter which as long as it can be used to develop executable apps. I will be using C++ throughout most of my posts.
 
