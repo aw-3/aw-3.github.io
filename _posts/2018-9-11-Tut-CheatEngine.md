@@ -30,6 +30,8 @@ Many people have used this one before; and most believe it is the extend of the 
 
 ### Final Thoughts
 
+I've only listed a couple of features CE is capable of; There are many more, you just have to explore.
+
 Next up are is a crash course on using IDA.
 
 
