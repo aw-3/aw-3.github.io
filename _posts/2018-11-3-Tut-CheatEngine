@@ -8,17 +8,19 @@ At first glance, Cheat Engine looks like nothing more than a simple memory edito
 ![_config.yml]({{ site.baseurl }}/images/CEGUI.png)
 
 
-### What is it good for?
+## What is it good for?
 
 In my last post I used the term "Dynamic analysis," which basically just means analysing processes in real-time while they're running. This is useful because it allows us to find things that would normally be more difficult or even impossible with static analysis. An example would be scanning for your health, taking some damage, then rescanning for the new value.
 
 
 
-### Useful Features
+## Useful Features
 
 In my years of experience with CE here are some of the features I find most useful:
 
-+ Memory scanning
+### + Memory scanning
+
+Many people have used this one before; and most believe it is the extend of the application. It's quite simple to use yet still powerful.
 
 + Memory view / Disassembler
 
