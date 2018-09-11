@@ -28,16 +28,22 @@ Simply enter a value you wish to search for, the parameters and hit search. To n
 
 You'll notice every result you find has an "address" associated with it. An address is the memory location that contains the value you see. This is important to us because in the future when we write a standalone cheat, we will write directly to this address instead of scanning.
 
+For more details see the CE tutorial included with CE.
+
 ### Memory view / Disassembler
 
-Attach CE to a process and hit the memory view button or CTRL-M. If you are blissfully unaware of assembly you will be pretty confused. The top portion is the disassembler which shows the assembly instructions at a given memory address in the process memory. The bottom counterpart is the hexadecimal view of the bytes at a given adddress.
+Attach CE to a process and hit the memory view button or CTRL-M. If you are blissfully unaware of assembly you will be pretty confused and maybe even a little overwhelmed. The top portion is the disassembler which shows the assembly instructions at a given memory address in the process memory. The bottom counterpart is the hexadecimal view of the bytes at a given adddress.
 
 ![_config.yml]({{ site.baseurl }}/images/CEMEMORYVIEW.png)
+
+The CE tutorial will teach you the basics of the disassembler. I recommend reading up on the basics of assembly. Most of our PCs run on x86 assembly. Here is a guide for 32bit x86 [http://www.cs.virginia.edu/~evans/cs216/guides/x86.html](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 
 ### Debugger
 
 If you have programming experience, you know what a debugger is (hopefully!)
-Since we are debugging the compiled program. The debugger steps through assembly opcodes rather than 
+Since we are debugging the compiled program the debugger steps through assembly opcodes instead
+
+### Auto Assembler / Code Injection
 
 ### Structure Dissector
 
