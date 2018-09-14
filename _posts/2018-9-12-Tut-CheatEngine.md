@@ -24,7 +24,7 @@ In my years of experience with CE here are some of the features I find most usef
 
 ### Memory scanning
 
-Many people have used this one before; and most believe it is the extend of the application. It's quite simple to use yet still powerful.
+Many people have used this one before and most believe it is the full extent of the capabilities of cheat engine. While this feature is incredibly useful, the application is capable of _much_ more.
 
 Simply enter a value you wish to search for, the parameters and hit search. To narrow the results further, perform an action in game to get the value to change, and search again. Once you have found the correct result, you may change it to whatever you desire.
 
