@@ -38,7 +38,7 @@ Attach CE to a process and hit the memory view button or CTRL-M. If you are blis
 
 ![Memory viewer]({{ site.baseurl }}/images/CEMEMORYVIEW.png)
 
-The CE tutorial will teach you the basics of the disassembler. I recommend reading up on the basics of assembly. Most of our PCs run on x86 assembly. Here is a guide for 32bit x86 [http://www.cs.virginia.edu/~evans/cs216/guides/x86.html](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
+The CE tutorial will teach you the basics of the disassembler. I recommend reading up on the basics of assembly. Most of our windows PCs run on x86 assembly. Here is a guide for x86 [http://www.cs.virginia.edu/~evans/cs216/guides/x86.html](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 
 ### Debugger
 
