@@ -3,7 +3,7 @@ layout: post
 title: Crash Course on Cheat Engine
 ---
 
-At first glance, Cheat Engine is nothing more than a simple memory editor; In reality it's much more. Let's take a look..
+At first glance, Cheat Engine is nothing more than a simple memory scanner; In reality it's much more. Let's take a look..
 
 <!--more-->
 
